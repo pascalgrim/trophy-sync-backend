@@ -8,8 +8,6 @@ export class UserController {
 
   @Get('/:username')
   getUser(@Param('username') username: string) {
-    return 'HEy';
-    // console.log('username', username);
-    // return this.userService.getUser(username);
+    return this.userService.getUser(username);
   }
 }
