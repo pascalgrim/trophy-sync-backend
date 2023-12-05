@@ -1,6 +1,7 @@
 # Trophy Sync Backend
 
 This is the backend for the Trophy Sync application, built with NestJS.
+Frontend can be found [here](https://github.com/pascalgrim/trophy-sync-frontend)
 
 ## Features
 
@@ -38,3 +39,5 @@ git clone https://github.com/your-username/trophy-sync-backend.git
 ```bash
 npm run start
 ```
+
+The backend is now running at http://localhost:YOURPORT.
