@@ -28,13 +28,7 @@ PORT=YOUR PORT
 
 To get a npsso token, you can follow the [psn-api-docs](https://github.com/achievements-app/psn-api#how-to-obtain-an-authentication-token).
 
-3. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/trophy-sync-backend.git
-```
-
-4.Start the backend:
+3.Start the backend:
 
 ```bash
 npm run start
